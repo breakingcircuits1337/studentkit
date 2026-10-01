@@ -1,0 +1,6 @@
+{
+  "name": "StudentKit",
+  "description": "The Ultimate Student Operating System unifying academic clarity, financial wellness, and personal safety into a high-efficiency dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
